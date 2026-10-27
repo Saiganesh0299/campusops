@@ -1,0 +1,6 @@
+{
+  "name": "CampusOps",
+  "description": "Intelligent 3D Campus Operations Platform featuring interactive 3D architectural visualization, top-view classroom explorer, maintenance and bookings management, and an AI Copilot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
